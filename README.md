@@ -3,7 +3,7 @@ Hi,I'm Alexia!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiatanasie&layout=compact)
 
 ## GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com/?user=alexiatanasie&theme=red)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alexiatanasie&theme=green)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexiatanasie&show_icons=true&theme=radical)
