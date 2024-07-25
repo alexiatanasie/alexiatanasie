@@ -1,6 +1,7 @@
 Hi,I'm Alexia!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiatanasie&layout=compact)
+## Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiatanasie&layout=compact&langs_count=10)
 
 ## GitHub Activity
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alexiatanasie&theme=green)
