@@ -7,7 +7,7 @@ Here are a few highlights of my work:
 - [SQLproject](https://github.com/alexiatanasie/SQLproject): Clothes Store.
 - [Phone Service System](https://github.com/alexiatanasie/PhoneServiceSystem)
 - [PL/SQLproject](https://github.com/alexiatanasie/Clothes-Store): Clothes Store.
-- 
+
 ## 👻 Used Languages 
 
     🐍 **Python**
