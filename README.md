@@ -1,19 +1,95 @@
-Hi,I'm Alexia!
-## Most Used Languages
+Hello, I'm Alexia!
 
-![Python](https://img.shields.io/badge/Python-36.84%25-FFEE8C?style=for-the-badge) 
-![Java](https://img.shields.io/badge/Java-22.93%25-FFC30B?style=for-the-badge) 
-![JavaScript](https://img.shields.io/badge/JavaScript-13.60%25-E8B828?style=for-the-badge) 
-![C++](https://img.shields.io/badge/C++-12.61%25-F7B11E?style=for-the-badge) 
-![CSS](https://img.shields.io/badge/CSS-7.93%25-FFAB40?style=for-the-badge)
-![C](https://img.shields.io/badge/C-6.09%25-F2F600?style=for-the-badge) 
-![HTML](https://img.shields.io/badge/HTML-10.50%25-FF3263?style=for-the-badge) 
-![C#](https://img.shields.io/badge/C%23-8.70%25-FFEE72?style=for-the-badge) 
-![SQL](https://img.shields.io/badge/SQL-7.20%25-FFBF0D?style=for-the-badge) 
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-5.50%25-FFFFC5?style=for-the-badge)
+## 📊 Most Used Languages
 
-## Notable Projects
+<div style="width: 100%; max-width: 600px;">
+
+  <div style="margin-bottom: 10px;">
+    🐍 **Python** 
+    <div style="background: #f0f0f0; border-radius: 5px; overflow: hidden; width: 100%;">
+      <div style="width: 36.84%; background: #FFD700; padding: 5px 0; text-align: center; color: #000;">
+        36.84%
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    ☕ **Java**
+    <div style="background: #f0f0f0; border-radius: 5px; overflow: hidden; width: 100%;">
+      <div style="width: 22.93%; background: #FFC107; padding: 5px 0; text-align: center; color: #000;">
+        22.93%
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    📜 **JavaScript**
+    <div style="background: #f0f0f0; border-radius: 5px; overflow: hidden; width: 100%;">
+      <div style="width: 13.60%; background: #FFB300; padding: 5px 0; text-align: center; color: #000;">
+        13.60%
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    ➕➕ **C++**
+    <div style="background: #f0f0f0; border-radius: 5px; overflow: hidden; width: 100%;">
+      <div style="width: 12.61%; background: #FFA000; padding: 5px 0; text-align: center; color: #000;">
+        12.61%
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    🎨 **CSS**
+    <div style="background: #f0f0f0; border-radius: 5px; overflow: hidden; width: 100%;">
+      <div style="width: 7.93%; background: #FFAB40; padding: 5px 0; text-align: center; color: #000;">
+        7.93%
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    🌐 **HTML**
+    <div style="background: #f0f0f0; border-radius: 5px; overflow: hidden; width: 100%;">
+      <div style="width: 10.50%; background: #FFD54F; padding: 5px 0; text-align: center; color: #000;">
+        10.50%
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    🛠️ **C**
+    <div style="background: #f0f0f0; border-radius: 5px; overflow: hidden; width: 100%;">
+      <div style="width: 6.09%; background: #FFE082; padding: 5px 0; text-align: center; color: #000;">
+        6.09%
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    💾 **SQL**
+    <div style="background: #f0f0f0; border-radius: 5px; overflow: hidden; width: 100%;">
+      <div style="width: 7.20%; background: #FFE57F; padding: 5px 0; text-align: center; color: #000;">
+        7.20%
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    🔄 **PL/SQL**
+    <div style="background: #f0f0f0; border-radius: 5px; overflow: hidden; width: 100%;">
+      <div style="width: 5.50%; background: #FFF176; padding: 5px 0; text-align: center; color: #000;">
+        5.50%
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+## 🚀 Projects
+Here are a few highlights of my work:
 - [SQLproject](https://github.com/alexiatanasie/SQLproject): Clothes Store.
-- [CppSQLProject](https://github.com/alexiatanasie/CppSQLProject): Very light SQLite Simulator.
 - [Phone Service System](https://github.com/alexiatanasie/PhoneServiceSystem)
 - [PL/SQLproject](https://github.com/alexiatanasie/Clothes-Store): Clothes Store.
