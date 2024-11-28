@@ -8,17 +8,4 @@ Here are a few highlights of my work:
 - [Phone Service System](https://github.com/alexiatanasie/PhoneServiceSystem)
 - [PL/SQLproject](https://github.com/alexiatanasie/Clothes-Store): Clothes Store.
 
-## 👻 Used Languages
-
-- 🐍 **Python**
-- ☕ **Java**
-- 📜 **JavaScript**
-- ➕➕ **C++**
-- 🎨 **CSS**
-- 🌐 **HTML**
-- 🛠️ **C**
-- 💾 **SQL**
-- 🔄 **PL/SQL**
-
-
  
